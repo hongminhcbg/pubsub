@@ -2,7 +2,7 @@ Retry backoff
 
 Setup this field to delay after Nack
 
-![Alt text](./docs/delay.jpeg?raw=true "Title")
+![Alt text](../docs/delay.jpeg?raw=true "Title")
 
 Dead letter statergy
     
